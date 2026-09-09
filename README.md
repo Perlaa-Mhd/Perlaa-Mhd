@@ -50,6 +50,7 @@ I believe there's always something new to learn, whether it's a programming conc
 ## 📫 How to Reach Me
 
 - **GitHub:** [@Perlaa-Mhd](https://github.com/Perlaa-Mhd)
+- **LinkedIn:** [Perla Mahmoud](https://linkedin.com/in/perla-mahmoud-47724a225)
 - Feel free to explore my repositories and connect with me!
 
 ---
