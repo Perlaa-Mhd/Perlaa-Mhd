@@ -10,10 +10,10 @@ I'm curious, always learning, and excited to see where technology and creativity
 
 ## 💻 Technologies I Work With
 
-**Frontend:** HTML, CSS, JavaScript, React, TypeScript
-**Backend:** PHP, Laravel, Node.js, Express.js
-**Databases:** MySQL, MongoDB
-**Tools:** Git, GitHub, VS Code, Composer
+-**Frontend:** HTML, CSS, JavaScript, React, TypeScript
+-**Backend:** PHP, Laravel, Node.js, Express.js
+-**Databases:** MySQL, MongoDB
+-**Tools:** Git, GitHub, VS Code, Composer
 
 ## 🌟 Featured Projects
 
