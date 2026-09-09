@@ -1,17 +1,19 @@
-# Hello! I'm Perl 👋
+# 👋 Hello, I'm Perla!
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with a love for building web applications that solve real-world problems.
+I'm a web developer who enjoys creating things, learning new technologies, and turning ideas into real projects. I have experience with **JavaScript, React, Laravel, PHP, HTML, CSS, MySQL, MongoDB, and REST APIs**, and I'm always working on improving my skills.
 
-## 🚀 About Me
+I enjoy exploring different areas of technology and challenging myself with new projects. Recently, I've been getting more interested in **AI and interactive applications**, especially the creative possibilities of combining technology with storytelling.
 
-I'm Perl, a dedicated developer exploring the world of web development. I enjoy working with modern technologies and creating intuitive user experiences. My journey includes building diverse projects ranging from simple applications to complex full-stack systems.
+Outside of coding, I'm passionate about **cinema, filmmaking, directing, acting, storytelling, and creative projects** 🎬. I love both the technical and creative sides of building something from an idea.
 
-## 💻 Technologies & Skills
+I'm curious, always learning, and excited to see where technology and creativity can take me. ✨
 
-- **Frontend:** React, TypeScript, HTML, CSS
-- **Backend:** JavaScript, Node.js
-- **Full-Stack Development:** Building complete web applications from database to UI
-- **Tools & Platforms:** Git, GitHub, and various development tools
+## 💻 Technologies I Work With
+
+**Frontend:** HTML, CSS, JavaScript, React, TypeScript
+**Backend:** PHP, Laravel, Node.js, Express.js
+**Databases:** MySQL, MongoDB
+**Tools:** Git, GitHub, VS Code, Composer
 
 ## 🌟 Featured Projects
 
@@ -23,26 +25,28 @@ Here are some of my key projects:
 - **Weather-App** - Real-time weather application
 - **E-commerce** - E-commerce platform
 - **Netflix-clone** - Streaming service UI clone
+- **My-first-React-App** - React learning project
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-I'm continuously expanding my knowledge in:
-- Advanced React patterns
-- TypeScript best practices
-- Full-stack architecture
-- Cloud deployment
+React, Node.js, Express.js, Zustand, and AI development.
+
+## 📚 Interests
+
+- Web Development & Full-Stack Applications
+- AI & Interactive Applications
+- Creative Storytelling & Technology
+- Filmmaking & Digital Media
+- Open Source Contributions
+
+## ✨ A Little More About Me
+
+I believe there's always something new to learn, whether it's a programming concept, a creative skill, or simply a different way of looking at an idea. I'm here to learn, build, experiment, and share some of the things I create along the way.
 
 ## 📫 How to Reach Me
 
-- GitHub: [@Perlaa-Mhd](https://github.com/Perlaa-Mhd)
+- **GitHub:** [@Perlaa-Mhd](https://github.com/Perlaa-Mhd)
 - Feel free to explore my repositories and connect with me!
-
-## 🎯 Goals
-
-- Build more innovative projects
-- Contribute to open source
-- Master new technologies
-- Help other developers in the community
 
 ---
 
